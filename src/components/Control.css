@@ -1,0 +1,18 @@
+#control {
+  position: fixed;
+  right: 0;
+  top: 0;
+  width: 200px;
+  z-index: 10;
+  padding: 20px;
+  background: blue;
+  color: white;
+}
+
+#control input {
+  box-sizing: border-box;
+  padding: 20px;
+  background: transparent;
+  color: white;
+  border: 2px solid white;
+}

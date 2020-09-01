@@ -1,0 +1,10 @@
+tr td {
+  max-width: 300px;
+  font-size: 30px;
+  padding: 5px;
+  border: 2px solid #ccc;
+}
+
+tr td textarea {
+  width: 100%;
+}
