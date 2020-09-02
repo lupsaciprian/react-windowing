@@ -26,8 +26,6 @@ const List = () => {
 
       if (lastPosition >= documentHeight - 2000) {
         dispatch(getNewBatch());
-
-        // debounce - dispatch load new set of items and replace the old ones
       }
     });
 
